@@ -42,8 +42,7 @@
 </a>
 
 
-
-[linkedin]: https://www.linkedin.com/in/mohamed-idbihi/ 
 [facebook]: https://www.facebook.com/Sougtanii/
+[linkedin]: https://www.linkedin.com/in/mohamed-idbihi/ 
+[Mail]: https://Medsougtani@gmail.com
 [instagram]: https://www.instagram.com/sougtanii/ 
-[Gmail]: https://Medsougtani@gmail.com
