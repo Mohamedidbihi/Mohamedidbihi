@@ -30,7 +30,7 @@
 
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=python&logoColor=white">
 <br />
 <hr>
 <a href="https://github.com/Mohamedidbihi">
@@ -40,6 +40,24 @@
 <a href="https://github.com/Mohamedidbihi">
 <img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=Mohamedidbihi&layout=compact" />
 </a>
+
+### aboutMe.js
+
+```javascript
+const MedIdbihi = {
+    pronouns: "he" | "him",
+    code: [Full stack developer],
+    askMeAbout: ["web dev", "tech", "music", "football"],
+    technologies: {
+        frontEnd: {
+            html, css, sass, bootstrap, javascript, jquery,angular, vuejs, c#.
+        },
+        backEnd: {
+           php , sql, asp., RestApi, mysql, laravel,firebase, wordpress, java, PostgreSQL,J2EE.
+        }        
+    }
+};
+```
 
 
 [facebook]: https://www.facebook.com/Sougtanii/
